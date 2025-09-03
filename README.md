@@ -1,6 +1,6 @@
 # 🌟 Zabān-e-Sulaimāni: Building Modern Standard Urdu (MSU)
 
-> _"Urdu can shine again — clear, organized, and connected to our heritage."_
+> *"Urdu can shine again — clear, organized, and connected to our heritage."*
 
 Zabān-e-Sulaimāni is a linguistic initiative to refine and standardize Urdu for the modern world. Our goal is to develop **Modern Standard Urdu (MSU)** — a respectful, structured, and elegant version of Urdu that bridges classical beauty with contemporary clarity.
 
@@ -10,97 +10,110 @@ Zabān-e-Sulaimāni is a linguistic initiative to refine and standardize Urdu fo
 
 **Modern Standard Urdu (MSU)** is a formal, purified form of Urdu designed for:
 
-- 🧠 Intellectual clarity  
-- 🕋 Religious expression  
-- 📚 Academic and literary excellence  
-- 🤖 Technological integration  
+* 🧠 Intellectual clarity
+* 🕋 Religious expression
+* 📚 Academic and literary excellence
+* 🤖 Technological integration
 
-MSU draws from Arabic grammar, Persian elegance, and Urdu’s poetic soul — while removing colonial slang and film-style language.
+MSU draws from Arabic grammar, Persian elegance, and Urdu’s poetic soul — while avoiding colonial slang, casual Hinglish, and film-style language.
+
+---
+
+## 🌐 MSU: A Unifying Language
+
+Like Modern Standard Arabic, MSU provides Urdu speakers with a **shared formal standard**:
+
+* Bridges historical, classical, and modern Urdu
+* Enables formal reading and writing without losing dialects or poetry
+* Supports education, literature, technology, and da’wah
+
+> *"MSU is a bridge between the past, present, and our shared linguistic future."*
+
+---
+
+## ❗ Why MSU Matters
+
+Urdu today faces challenges:
+
+* ☠️ Widespread Hinglish and Bollywood slang
+* 🧠 Weak grammar in academic, legal, or scientific writing
+* 🪦 Reduced connection to Qur’anic and classical intellectual traditions
+
+MSU aims to:
+
+* 🎓 Strengthen Urdu in education, da’wah, and media
+* 🧬 Restore clarity, dignity, and cultural depth
+* 📜 Preserve the beauty and soul of Urdu for future generations
 
 ---
 
 ## 📚 Historical Foundation
 
-MSU is rooted in the finest classical Urdu literature:
+MSU is inspired by classical and reformist Urdu literature:
 
-| Author             | Contribution                                      |
-|--------------------|---------------------------------------------------|
-| **Wali Dakni**      | Early classical Urdu with Persian richness        |
-| **Hali**            | Moral prose and linguistic evolution              |
-| **Allama Iqbal**    | Intellectual depth and advanced poetic structure |
-| **Faiz Ahmed Faiz** | Modern idioms and expressive style                |
-| **Ahmed Faraz**     | Contemporary literary flair                       |
+| Author                      | Contribution                                    |
+| --------------------------- | ----------------------------------------------- |
+| **Wali Dakni**              | Early classical Urdu, rich in Persian style     |
+| **Hali**                    | Moral and philosophical prose, Urdu’s evolution |
+| **Sir Syed Ahmad Khan**     | Educational reformer, modernized Urdu usage     |
+| **Allama Iqbal**            | Poetic and intellectual depth                   |
+| **Faiz Ahmed Faiz**         | Modern poetry, idioms, and expressive style     |
+| **Ahmed Faraz**             | Contemporary literary flair                     |
+| **Baba-e-Urdu (Abdul Haq)** | Advocate for Urdu’s purity and preservation     |
 
-These sources shape MSU’s vocabulary, grammar, and stylistic principles.
+These figures shape MSU’s vocabulary, grammar, and stylistic principles.
 
 ---
 
 ## 🏛️ Modern Foundation
 
-To ensure MSU is practical and teachable, we also study:
+To make MSU practical today, we study:
 
-- Urdu children’s literature  
-- Everyday vocabulary and pronunciation  
-- Basic grammar and sentence structure  
+* Urdu children’s stories — simple sentences, everyday words, pronunciation, and basic grammar
 
-This layer grounds MSU in real-world usage for learners and educators.
+This ensures MSU is **grounded in practical language** for reading, writing, and teaching.
 
 ---
 
-## 🌐 Why MSU Matters
+## 🛠️ Project Approach
 
-Urdu today faces serious challenges:
+### 📖 Codify Grammar
 
-- ☠️ Hinglish and Bollywood slang dilute its purity  
-- 🧠 Weak grammar limits formal and scientific writing  
-- 🪦 Disconnection from Qur’anic and intellectual traditions  
+* Define rules for tenses, sentence structure, and formal usage
 
-MSU aims to:
+### 📘 Build Purified Vocabulary
 
-- 🎓 Strengthen Urdu in education, da’wah, and media  
-- 🧬 Restore dignity and cultural depth  
-- 📜 Preserve the soul of Urdu for future generations  
+* Develop a 200,000+ word list
+* Tag roots for clarity: `[AR]` Arabic, `[FA]` Persian, `[TU]` Turkish, `[UR]` Native Urdu
 
-> _"MSU is the bridge between our past, our present, and our shared linguistic future."_
+### 🖋️ Develop Style Guide
 
----
-
-## 🛠️ Project Goals
-
-### 📖 Codify Grammar  
-- Define rules for tenses, sentence structure, and formal usage
-
-### 📘 Build Purified Vocabulary  
-- Develop a 200,000+ word list  
-- Tag roots: `[AR]` Arabic, `[FA]` Persian, `[TU]` Turkish, `[UR]` Native Urdu (for words that were originated within Urdu)
-
-### 🖋️ Write the Style Guide  
-- Create simple rules for essays, khutbahs, media, and academic writing
+* Guidance for essays, khutbahs, media, and academic writing
 
 ---
 
-## 🔮 Desired Outcomes
+## 🔮 Expected Outcomes
 
-| Sector     | Outcome                                           |
-|------------|---------------------------------------------------|
-| 📚 Education | Urdu becomes clear, academic, and usable         |
-| 🕋 Da’wah    | Qur’an & Hadith can be expressed with precision  |
-| 🤖 Tech      | MSU integrates into AI, tools, and digital media |
-| 🧠 Identity  | Youth reconnect with heritage and culture        |
+| Sector       | Outcome                                    |
+| ------------ | ------------------------------------------ |
+| 📚 Education | Clear, academic, and accessible Urdu       |
+| 🕋 Da’wah    | Qur’an & Hadith expressed with clarity     |
+| 🤖 Tech      | MSU usable in AI, tools, and digital media |
+| 🧠 Identity  | Youth reconnect with heritage and culture  |
 
 ---
 
 ## 🤝 Contribute
 
-We welcome linguists, educators, developers, and Urdu lovers to join us. Whether you're refining grammar, curating vocabulary, or testing MSU in apps — your contribution matters.
+We welcome linguists, educators, developers, and Urdu enthusiasts. Whether refining grammar, curating vocabulary, or testing MSU in apps — your contribution matters.
 
 ---
 
 ## 📬 Contact & Updates
 
-Stay connected for updates, discussions, and releases.  
+Stay connected for updates, discussions, and releases.
 Coming soon: vocabulary database, grammar rules, and style guide.
 
 ---
 
-Let’s make Urdu shine again — together. 🌙
+**Let’s help Urdu shine again — together. 🌙**
