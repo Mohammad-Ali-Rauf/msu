@@ -2,7 +2,7 @@
 
 > *"Urdu can shine again — clear, organized, and connected to our heritage."*
 
-Zabān-e-Sulaimāni is a linguistic initiative to refine and standardize Urdu for the modern world. Our goal is to develop **Modern Standard Urdu (MSU)** — a respectful, structured, and elegant version of Urdu that bridges classical beauty with contemporary clarity.
+Zabān-e-Sulaimāni is a linguistic initiative to refine and standardize Urdu for the modern world. Our goal is to develop **Modern Standard Urdu (MSU)** — a respectful, structured, and elegant form that bridges classical beauty with contemporary clarity.
 
 ---
 
@@ -17,6 +17,8 @@ Zabān-e-Sulaimāni is a linguistic initiative to refine and standardize Urdu fo
 
 MSU draws from Arabic grammar, Persian elegance, and Urdu’s poetic soul — while avoiding colonial slang, casual Hinglish, and film-style language.
 
+> *"MSU is a bridge between the past, present, and our shared linguistic future."*
+
 ---
 
 ## 🌐 MSU: A Unifying Language
@@ -24,10 +26,8 @@ MSU draws from Arabic grammar, Persian elegance, and Urdu’s poetic soul — wh
 Like Modern Standard Arabic, MSU provides Urdu speakers with a **shared formal standard**:
 
 * Bridges historical, classical, and modern Urdu
-* Enables formal reading and writing without losing dialects or poetry
-* Supports education, literature, technology, and da’wah
-
-> *"MSU is a bridge between the past, present, and our shared linguistic future."*
+* Enables formal reading and writing **without losing dialects or poetry**
+* Supports **education, literature, technology, and da’wah**
 
 ---
 
@@ -80,15 +80,50 @@ This ensures MSU is **grounded in practical language** for reading, writing, and
 ### 📖 Codify Grammar
 
 * Define rules for tenses, sentence structure, and formal usage
+* Include **Hinglish → MSU examples**:
+
+**Example:**
+
+* Hinglish: “Mujhe kaam karna hai”
+* MSU: “مجھے اپنا کام کرنا ہے”
+* Notes: Maintains clarity, formal grammar, and dignity
+
+---
 
 ### 📘 Build Purified Vocabulary
 
-* Develop a 200,000+ word list
+* Develop a **200,000+ word list**
 * Tag roots for clarity: `[AR]` Arabic, `[FA]` Persian, `[TU]` Turkish, `[UR]` Native Urdu
+* Future: **color-coded or icon-based system** for digital ease
+
+---
 
 ### 🖋️ Develop Style Guide
 
 * Guidance for essays, khutbahs, media, and academic writing
+* **Tone markers**: formal, poetic, religious — helping writers switch context while staying MSU-compliant
+
+---
+
+## 🎯 MSU in Action
+
+**Example Paragraph (Modern Urdu → MSU)**
+
+**Modern:**
+“Hum school ja rahe hain aur kal project submit karna hai, lekin time kam hai.”
+
+**MSU:**
+“ہم اسکول جا رہے ہیں اور کل اپنا منصوبہ جمع کرنا ہے، مگر وقت کم ہے۔”
+
+> Notice: MSU keeps sentence clear, grammatically correct, and elegant.
+
+---
+
+## 🌟 Community Engagement: “MSU Challenge”
+
+* Convert Hinglish/modern Urdu sentences into MSU
+* Submit examples for review and public display
+* Gamify learning and adoption among youth
 
 ---
 
@@ -112,7 +147,7 @@ We welcome linguists, educators, developers, and Urdu enthusiasts. Whether refin
 ## 📬 Contact & Updates
 
 Stay connected for updates, discussions, and releases.
-Coming soon: vocabulary database, grammar rules, and style guide.
+Coming soon: vocabulary database, grammar rules, style guide, and interactive MSU challenges.
 
 ---
 
