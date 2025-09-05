@@ -2,7 +2,10 @@
   "word": "علم",
   "root": "[AR]",
   "meaning": "knowledge, science",
+  "pos": "noun",
+  "gender": "masculine",
   "category": "academic",
+  "register": "formal",
   "examples": [
     "علم ایک روشنی ہے۔",
     "علم انسان کو بلند کرتا ہے۔"

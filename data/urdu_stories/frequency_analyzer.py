@@ -37,9 +37,12 @@ lexicon = {}
 for token, freq in sorted_tokens:
     lexicon[token] = {
         "word": token,
-        "root": "",
+        "root": "",            # AR[Arabic] | FR[Persian] | UR[Originated within Urdu itself] | TU[Turkish]
         "meaning": "",
+        "pos": "",
+        "gender": "",          # masculine/feminine/neuter  
         "category": "",        # common, academic, poetic, etc.
+        "register": "",        # formal or informal/slang   
         "examples": [],
         "notes": "",
         "romanized": "",
