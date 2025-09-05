@@ -121,9 +121,13 @@ This ensures MSU is **grounded in practical language** for reading, writing, and
 
 ## 🌟 Community Engagement: “MSU Challenge”
 
-* Convert Hinglish/modern Urdu sentences into MSU
-* Submit examples for review and public display
-* Gamify learning and adoption among youth
+
+To explore or contribute:
+
+1. Read the grammar modules in `grammar/`
+2. Browse the lexicon in `lexicon/dict.json`
+3. Try converting Hinglish to MSU using examples in `comparisons/`
+4. Submit suggestions via Issues or Pull Requests
 
 ---
 
@@ -141,6 +145,8 @@ This ensures MSU is **grounded in practical language** for reading, writing, and
 ## 🤝 Contribute
 
 We welcome linguists, educators, developers, and Urdu enthusiasts. Whether refining grammar, curating vocabulary, or testing MSU in apps — your contribution matters.
+
+> See [CHANGELOG](CHANGELOG.md) for version history and development notes.
 
 ---
 
